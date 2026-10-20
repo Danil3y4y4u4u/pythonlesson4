@@ -21,7 +21,7 @@ Normal text
 
 run the command 'this command'
 
-'''bash
+```bash
 npm install
 npm run
-'''
+```
